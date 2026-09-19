@@ -13,84 +13,104 @@
 
 ---
 
-## 🚀 About Me
+# Author
 
-I'm an Azure Data Engineer focused on building scalable,
-reliable and automated data platforms.
+### About Me: I'm Dinesh Reddy | Azure Data Engineer
 
-- ☁️ Microsoft Azure
-- 🔷 Azure Data Factory
-- 🧱 Azure Databricks
-- ⚡ PySpark
-- 🐍 Python
-- 🗄️ SQL
-- 💾 ADLS Gen2
-- 🔺 Delta Lake
-- 🏭 Microsoft Fabric
-- 📊 Power BI
-- 🔄 GitHub Actions / Azure DevOps
+### I am passionate about building scalable data pipelines that transform raw data into reliable and actionable insights.
 
----
+### Azure Data Engineer | Cloud Data Engineering | Databricks | PySpark | Microsoft Azure
 
-## 🛠️ Tech Stack
+## About Me:
 
-| Category | Technologies |
-|---|---|
-| Cloud | Microsoft Azure |
-| Data Engineering | ADF, Databricks, Synapse |
-| Big Data | Apache Spark, PySpark |
-| Storage | ADLS Gen2, Delta Lake |
-| Programming | Python, SQL |
-| Analytics | Power BI, Microsoft Fabric |
-| DevOps | GitHub Actions, Azure DevOps |
-| Architecture | Medallion Architecture |
-| Data Processing | ETL / ELT, Batch Processing |
+### I'm an Azure Data Engineer with 4+ years of experience in designing and developing scalable data solutions. I enjoy transforming complex and raw data into clean, reliable and production-ready pipelines using Azure, Databricks, PySpark, Python and SQL.
 
----
+### My focus is on building robust cloud-native data platforms, optimizing data processing workflows, implementing modern data architectures and delivering reliable data solutions for business analytics.
 
-## 📂 Featured Projects
+## Tech Stack:
 
-### 🔹 Azure Data Engineering Pipeline
-End-to-end data pipeline using Azure Data Factory,
-ADLS Gen2, Databricks, PySpark and Delta Lake.
+### • Python
 
-### 🔹 Databricks Medallion Architecture
-Bronze → Silver → Gold architecture using
-PySpark and Delta Lake.
+### • SQL
 
-### 🔹 Microsoft Fabric Data Platform
-Data ingestion, transformation and analytics using
-Microsoft Fabric.
+### • PySpark
 
-### 🔹 Metadata-Driven ADF Framework
-Reusable metadata-driven pipelines for scalable
-data ingestion and transformation.
+### • Apache Spark
 
-### 🔹 Data Quality Framework
-Data validation, logging, monitoring and
-pipeline quality checks.
+### • Databricks
 
----
+### • Microsoft Azure
 
-## 🏗️ Data Engineering Architecture
+### • Azure Data Factory
 
-```text
-Source Systems
-      │
-      ▼
-Azure Data Factory
-      │
-      ▼
-ADLS Gen2 - Bronze
-      │
-      ▼
-Azure Databricks
-      │
-      ▼
-Delta Lake - Silver
-      │
-      ▼
-Gold / Business Layer
-      │
-      ▼
-Power BI / Analytics
+### • Azure Data Lake Storage Gen2
+
+### • Delta Lake
+
+### • Microsoft Fabric
+
+### • Power BI
+
+### • GitHub Actions
+
+### • Azure DevOps
+
+## Specialties:
+
+### • ETL / ELT Pipelines
+
+### • Azure Data Engineering
+
+### • Data Pipeline Development
+
+### • Data Lake Architecture
+
+### • Medallion Architecture
+
+### • Metadata-Driven Pipelines
+
+### • Data Warehousing
+
+### • Data Quality & Validation
+
+### • Data Pipeline Monitoring
+
+### • Spark Performance Optimization
+
+### • CI/CD Automation
+
+### • Cloud Data Architecture
+
+## What I'm About:
+
+### Building end-to-end data solutions from ingestion to analytics
+
+### Designing scalable data pipelines using Azure Data Factory and Databricks
+
+### Processing large datasets using PySpark and Apache Spark
+
+### Building Bronze → Silver → Gold data architectures using Delta Lake
+
+### Designing metadata-driven and reusable data pipelines
+
+### Optimizing Spark jobs and SQL queries for better performance
+
+### Implementing data quality, validation and monitoring frameworks
+
+### Automating deployments using GitHub Actions and Azure DevOps
+
+### Exploring Microsoft Fabric and modern Data & AI platforms
+
+## Let's Connect!
+
+### I'm always interested in connecting with data engineers, technology professionals and organizations working on modern cloud data platforms.
+
+### 📍 Dubai, UAE
+
+### Email: your-email@example.com
+
+### LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+
+### GitHub: [dineshreddynalla561](https://github.com/dineshreddynalla561)
+
+### Follow for more Azure Data Engineering projects and cloud data solutions 🚀
