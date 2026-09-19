@@ -7,7 +7,7 @@
 ### Building scalable data pipelines and cloud data platforms
 ### that turn raw data into actionable insights.
 
-<img src="./github-banner.png" width="100%" />
+<img src="./github-banner.png.png" width="100%" />
 
 </div>
 
