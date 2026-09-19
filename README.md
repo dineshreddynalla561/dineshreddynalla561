@@ -107,9 +107,9 @@
 
 ### 📍 Dubai, UAE
 
-### Email: your-email@example.com
+### Email: dineshreddynalla561@gmail.com
 
-### LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+### LinkedIn: linkedin.com/in/dinesh-nalla-b05998333
 
 ### GitHub: [dineshreddynalla561](https://github.com/dineshreddynalla561)
 
