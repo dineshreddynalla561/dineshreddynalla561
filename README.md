@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dineshreddynalla561/dineshreddynalla561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dinesh Reddy
 
-Here are some ideas to get you started:
+## Azure Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building scalable data pipelines and cloud data platforms
+### that turn raw data into actionable insights.
+
+<img src="./github-banner.png" width="100%" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an Azure Data Engineer focused on building scalable,
+reliable and automated data platforms.
+
+- ☁️ Microsoft Azure
+- 🔷 Azure Data Factory
+- 🧱 Azure Databricks
+- ⚡ PySpark
+- 🐍 Python
+- 🗄️ SQL
+- 💾 ADLS Gen2
+- 🔺 Delta Lake
+- 🏭 Microsoft Fabric
+- 📊 Power BI
+- 🔄 GitHub Actions / Azure DevOps
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Cloud | Microsoft Azure |
+| Data Engineering | ADF, Databricks, Synapse |
+| Big Data | Apache Spark, PySpark |
+| Storage | ADLS Gen2, Delta Lake |
+| Programming | Python, SQL |
+| Analytics | Power BI, Microsoft Fabric |
+| DevOps | GitHub Actions, Azure DevOps |
+| Architecture | Medallion Architecture |
+| Data Processing | ETL / ELT, Batch Processing |
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Azure Data Engineering Pipeline
+End-to-end data pipeline using Azure Data Factory,
+ADLS Gen2, Databricks, PySpark and Delta Lake.
+
+### 🔹 Databricks Medallion Architecture
+Bronze → Silver → Gold architecture using
+PySpark and Delta Lake.
+
+### 🔹 Microsoft Fabric Data Platform
+Data ingestion, transformation and analytics using
+Microsoft Fabric.
+
+### 🔹 Metadata-Driven ADF Framework
+Reusable metadata-driven pipelines for scalable
+data ingestion and transformation.
+
+### 🔹 Data Quality Framework
+Data validation, logging, monitoring and
+pipeline quality checks.
+
+---
+
+## 🏗️ Data Engineering Architecture
+
+```text
+Source Systems
+      │
+      ▼
+Azure Data Factory
+      │
+      ▼
+ADLS Gen2 - Bronze
+      │
+      ▼
+Azure Databricks
+      │
+      ▼
+Delta Lake - Silver
+      │
+      ▼
+Gold / Business Layer
+      │
+      ▼
+Power BI / Analytics
